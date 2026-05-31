@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me  
-> I’m a second-year B.E. Computer Science and Engineering student.  
+> I’m a Third-year B.E. Computer Science and Engineering student.  
 > Learning Python 🐍, C++ ⚙️, and Java ☕.  
 > Building cool things, one bug at a time.  
 
